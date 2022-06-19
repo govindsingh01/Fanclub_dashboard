@@ -1,1 +1,1 @@
-
+Fanclub_dashboard is app where you can post your Pictures, Video having Likes and Comments on them, which is basically related to the fan club ownership where you can buy or sell things based upon likes and comments.
